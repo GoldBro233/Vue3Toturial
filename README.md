@@ -1,29 +1,5 @@
-# Rsbuild project
+# Introduction
 
-## Setup
+This is the project of learing Vue3. My Vue 3 projects are all use Rspack and Rsbuild to build Website.
 
-Install the dependencies:
-
-```bash
-pnpm install
-```
-
-## Get started
-
-Start the dev server:
-
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+The main branch only contain Index README and License file.
